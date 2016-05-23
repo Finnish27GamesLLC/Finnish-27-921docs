@@ -1,0 +1,34 @@
+enter the 'folder/filename prefix' of the set of files
+containing data about the user-defined set of game rules and
+matching set of combination-dependent-playing-strategy tables
+to be loaded into program memory.
+J23h25s6d/game13
+ 
+the user-defined set of game rules is described as follows:
+open J23h25s6d/game13i.txt to see a list of user-defined game rules             
+if this is acceptable, then type y and press enter, else press enter 
+y
+ 
+enter the 'folder/filename prefix' of the files
+to be used to store application output.
+J23h25s6d/game13TDA
+ 
+press 1 and enter to manually input one of eighty-one-supported strategies
+for the use of the hit option for each of a set of possible dealer's hand
+totals and enable the BIGS921 application to insert these strategies into
+the total dependent basic strategy saved to file by the BIGS921 application.
+ 
+press 2 and enter to manually input one of eighty-one-supported strategies
+for the use of the hit option and enable the BIGS921 application to insert
+this strategy into the total dependent basic strategy saved to file by
+the BIGS921 application as the strategy for the play of all player hands.
+ 
+else press enter 
+ 0 
+ 
+ 
+a brief description of the program output reads as follows:
+open J23h25s6d/game13TDAi.txt to see a list of program parameters
+
+
+START: 05-26-2014 19:13:10
